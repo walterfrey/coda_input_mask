@@ -1,0 +1,19 @@
+{
+  "name": "coda-inputmask",
+  "version": "0.1.0",
+  "description": "Coda Pack para formatação de colunas usando regex.",
+  "main": "src/index.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"No test specified yet\" && exit 0"
+  },
+  "keywords": ["coda", "pack", "regex"],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@codahq/packs-sdk": "^1.0.0"
+  }
+} 
